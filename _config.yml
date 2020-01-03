@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Min-jae's Blog Page"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Min-jae Kim"
+name                     : #
 description              : "Have a super AWESOME day :)"
 url                      : "https://ipis-mjkim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Min-jae Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "*.*"
   location         : "Somewhere"
   email            :
   links:
